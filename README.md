@@ -3,7 +3,7 @@ $${\color{aliceblue}✦ ౨౿}$$ <a href="https://hits.sh/github.com/thetenders
   </p>
 
 <p align="center">  
-  <img src="https://files.catbox.moe/szt77i.gif" alt="divider" style="height: 90px; width: 70px"  /> 
+  <img src="https://files.catbox.moe/szt77i.gif" alt="divider" style="height: 70px; width: 100px"  /> 
   
 $${\color{aliceblue}hi \space again, \space i \space am \space Clemmie }$$
   </p>
