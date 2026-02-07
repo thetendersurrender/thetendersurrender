@@ -5,7 +5,7 @@ $${\color{aliceblue}✦ ౨౿}$$ <a href="https://hits.sh/github.com/thetenders
   <img src="https://files.catbox.moe/4oq8e1.png" alt="phil+techno" style="height: 400px; width: 350px" />
 </p>
 <p align="center">
-<a href="https://orphansblood.straw.page">Strawpage</a> 
+<a href="https://orphansblood.straw.page">Strawpage</a> .  <a href="https://rentry.co/thetendersurrender">New rentry</a> 
 
 
 <p align="center">  
