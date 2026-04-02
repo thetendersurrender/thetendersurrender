@@ -9,8 +9,8 @@
 
 <p align="center">
 <a href="https://rentry.co/thetendersurrender">rentry (new)</a>
-
- LOVE ME, HOLD ME!!
-
-
+<p align="center">
+ <br>  $\color{c4e2ff}{\textsf{ click on the links. hi, thanks ‪‪❤︎‬ }}$  <br> 
+<p align="center">
+ <br>  $\color{c4e2ff}{\textsf{ MARKY, YOU HARPY, STAND AWAY FROM ME!!! }}$  <br> 
   
