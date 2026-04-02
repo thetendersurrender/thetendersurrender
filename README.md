@@ -1,6 +1,7 @@
 
-  $${\color{aliceblue} \space i \space  left \space you }$$
-</p>
+<p align="center">
+ <br> <img src="https://files.catbox.moe/wlr79w.gif" alt=":D" style="height: 20px; width: 20px" />   $\color{#fe92b2}{\textsf{ i left you}}$  <br> 
+
 
   https://github.com/user-attachments/assets/243d09ca-f4a9-4183-b297-f30b8e7eeb61
   
