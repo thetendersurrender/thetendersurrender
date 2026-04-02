@@ -6,16 +6,9 @@
   https://github.com/user-attachments/assets/243d09ca-f4a9-4183-b297-f30b8e7eeb61
   
 
-</p>
- <a href="https://rentry.co/canibalismo">rentry (new)</a>
- <p align="center">  
- </p>
- $${\color{aliceblue}wip  \space im \space  tired. \space go  \space to \space my \space main! }$$ $${\color{aliceblue}number \space 1 \space avery \space fan  }$$
-</p>
-
-<p align="center">  
-  
-
+<p align="center">
+<a href="https://rentry.co/thetendersurrender">rentry (new)</a>
+ 
 
 
   
