@@ -1,8 +1,7 @@
 <p align="center">
  <br> <img src="https://files.catbox.moe/wlr79w.gif" alt=":D" style="height: 20px; width: 20px" />   $\color{#C3D682}{\textsf{LO-LO- LOVE ME, HOLD ME! }}$  <br> 
 <p align="center"> 
-<a href="https://hits.sh/github.com/thetendersurrender/"><img alt="Hits" src="https://hits.sh/github.com/thetendersurrender.svg?label=Love%20%E2%99%A1&color=fe92b2&labelColor=e8e8e8"/></a>  <img src="https://files.catbox.moe/3j53ml.png" alt=":D" style="height: 20px; width: 20px" />  <a href="https://hits.sh/github.com/thetendersurrender/"> <img alt="Hits" src="https://hits.sh/github.com/thetendersurrender.svg?label=%F0%9D%84%9E%20Nerves&color=a0090c&labelColor=e8e5e5"/></a>
-
+<a href="https://hits.sh/github.com/thetendersurrender/"><img alt="Hits" src="https://hits.sh/github.com/thetendersurrender.svg?label=Love%20%E2%99%A1&color=C3D682&labelColor=fdfdfd"/></a> <a href="https://hits.sh/github.com/thetendersurrender/"><img alt="Hits" src="https://hits.sh/github.com/thetendersurrender.svg?label=Nerves&color=f799b1&labelColor=fdfdfd"/></a>
 <p align="center">  
 <img src="https://files.catbox.moe/8fevzx.png" width="500" alt="Description">
 </p>
