@@ -12,7 +12,6 @@
 <a href="https://rentry.co/thetendersurrender">rentry (new)</a>
 
 <p align="center">
-<br> $\color{#C3D682}{\textsf{ ?awsdaswss } <br> 
-
+$\color{#C3D682}{\textsf{ >?wassdfs }}$ 
 <p align="center">
 <img src="https://files.catbox.moe/r6fotz.png" width="600" alt="Description">
