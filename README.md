@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://rentry.co/thetendersurrender">rentry (new)</a>
+<a href="https://rentry.co/vesselavery">rentry (new)</a>
 
 <p align="center">
 $\color{#C3D682}{\textsf{ >?wassdfs }}$ 
